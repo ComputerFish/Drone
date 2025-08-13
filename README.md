@@ -2,10 +2,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/85b54789-dfa5-438c-9bdf-3fe281ed3bfc" alt="Static Image" width="600" height="338">
+      <img src="https://github.com/user-attachments/assets/85b54789-dfa5-438c-9bdf-3fe281ed3bfc" alt="Finished Drone" width="600" height="338">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/121ef716-b179-4fc7-9722-37cfce5dfef0" alt="Animated GIF" >
+      <img src="https://github.com/user-attachments/assets/121ef716-b179-4fc7-9722-37cfce5dfef0" alt="Flying footage from drone!" >
     </td>
   </tr>
 </table>
