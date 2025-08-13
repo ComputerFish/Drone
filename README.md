@@ -2,18 +2,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/85b54789-dfa5-438c-9bdf-3fe281ed3bfc" alt="Finished Drone" width="600" height="338">
+      <img src="https://github.com/user-attachments/assets/41a91c4a-aa20-416a-8e03-896d3797085f" alt="Finished Drone" width="600" height="338">
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/121ef716-b179-4fc7-9722-37cfce5dfef0" alt="Flying footage from drone!" >
     </td>
   </tr>
 </table>
-
-![IMG_0112](https://github.com/user-attachments/assets/85b54789-dfa5-438c-9bdf-3fe281ed3bfc)
-![edit-ezgif com-optimize](https://github.com/user-attachments/assets/121ef716-b179-4fc7-9722-37cfce5dfef0)
-
-
 For years, I’ve been fascinated by the drone scene. Watching drones capture cinematic shots or race through obstacles sparked my interest, and I wanted to give it a try. Having never built or even owned a drone before, I had a lot to learn. I began by brainstorming what I wanted from a drone since not all drones are built for the same purpose. I prioritized speed and maneuverability first, with range and flight time as secondary considerations. Once I had a clear vision, it was time to start purchasing parts and equipment.
 
 
