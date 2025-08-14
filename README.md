@@ -108,3 +108,14 @@ The DJI O4 Air Unit connected directly to the FC’s dedicated HD port, I took t
   </tr>
 </table>
 Zip ties, custom 3D printed mounts, and heat shrink kept everything secure. A well built quad isn’t just about performance - clean wiring helps troubleshooting and maintenance later.
+
+# Configuration & Tuning  
+In Betaflight I did the following:  
+* Calibrated the accelerometer and ESCs.  
+* Verified motor direction and remapped where needed.  
+* Applied a conservative PID profile for the maiden flight.  
+* Configured rates for a balance of smooth freestyle and responsive cornering.  
+* The DJI system was set to 50 Mbps mode for maximum image clarity during initial testing.  
+
+# First Flight
+The maiden hover was uneventful - exactly what you want. Line-of-sight tests confirmed stable flight, no oscillations, and smooth throttle transitions. Once airborne in FPV mode, the quad felt locked-in, with crisp rolls and predictable yaw authority. I can't stress enough how important it is to practice flying in a simulator first before trying the real thing. The sim absolutely set me up for success.
