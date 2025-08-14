@@ -119,3 +119,12 @@ In Betaflight I did the following:
 
 # First Flight
 The maiden hover was uneventful - exactly what you want. Line-of-sight tests confirmed stable flight, no oscillations, and smooth throttle transitions. Once airborne in FPV mode, the quad felt locked-in, with crisp rolls and predictable yaw authority. I can't stress enough how important it is to practice flying in a simulator first before trying the real thing. The sim absolutely set me up for success.
+
+# Lessons Learned
+* Use angled standoffs for cleaner antenna routing - mine ended up a bit cramped and 3D printed better mounts later on.  
+* Tuck the extra wires instead of shortening them, it's just not as aesthetic; re-mounting the Air Unit was trickier than expected.  
+* Heat-shrink motor leads early — it’s easier than after the arms are bolted.  
+
+# Conclusion
+This build was an incredible experience, especially as someone who has been following the FPV community for a long time. Along the way I gained a much deeper understanding of industry standards for drone construction as well as broader lessons in RF systems. I’m particularly excited to dive further into Betaflight not only to fine tune my quad, but also to explore the possibility of contributing to the project itself.
+My background in electronics proved invaluable throughout the build, and even my prior experience assembling a 3D printer helped me plan the layout and wiring strategy. Looking forward this drone won’t just be a platform for fun and practice flights. I see it as a foundation for modular attachments and, eventually, the challenge of transforming it into a semi-autonomous or fully autonomous system.
