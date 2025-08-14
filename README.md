@@ -28,17 +28,83 @@ Key Components:
 Each choice was deliberate balancing weight, reliability, and ease of integration.
 
 # Assembly Process
-1. ### Frame Prep  
+1. ## Frame Prep
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/324598f9-3496-496a-92eb-70fc0c61390f" alt="Drone frame">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/33158480-1647-44af-a1e2-700411d329c6" alt="Drone frame" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8ef9784c-9fd2-4067-9937-637bd426b12a" alt="Drone frame" >
+    </td>
+  </tr>
+</table>
 I started by dry fitting the carbon plates and standoffs, checking tolerances and clearance for the Air Unit and stack.
 
-2. ### Motor & ESC Mounting  
+2. ## Motor & ESC Mounting
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d1cfd497-38cf-49de-9c66-c5f8c5deeda3" alt="Drone motor">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c965e8e8-baf6-4db1-bf98-d4b2478ea0bf" alt="ESC" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/dd8da334-d487-406b-85f3-88c797ccc0a2" alt="ESC" >
+    </td>
+
+  </tr>
+</table>
 The XING motors bolted neatly to the arms, and I routed the motor wires to the T-Motor 55A ESC mounted on vibration damping grommets.
 
-3. ### Flight Controller Integration  
+3. ### Flight Controller Integration
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a3525db6-eb53-4a7b-a266-38e833d19421" alt="FC stack">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/243726da-56cc-4755-89d6-20598697fb30" alt="FC stack" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5ab6c9e3-ef87-42cb-aca1-5f2630ed64c4" alt="FC stack" >
+    </td>
+  </tr>
+</table>
 The F7 HD sat above the ESC in a standard 30x30 stack. This flight controller and ESC pair have a neat solderless connection for easier maintenance, nice!
 
-4. ### Video & Receiver Wiring  
-The DJI O4 Air Unit connected directly to the FC’s dedicated HD port, simplifying wiring and reducing potential video noise. The receiver was mounted away from high current lines to keep signal clean.
+4. ### Video & Receiver Wiring
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/14e414b4-8b02-4647-ad6f-9710df742df6" alt="">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c0ac0067-24d7-4d58-ba1b-ee4e57fed8bb" alt="" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7bca5435-e5fe-4245-9013-9f1e08abaf1e" alt="" >
+    </td>
+  </tr>
+</table>
+The DJI O4 Air Unit connected directly to the FC’s dedicated HD port, I took the liberty of shortening the connector but kind of regret it - looks bulky now. The receiver was mounted away from high current lines to keep signal clean.
 
-5. ### Final Assembly & Tidy-up  
+5. ### Final Assembly & Tidy-up
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/abff59c2-762e-4330-aef7-a3ea8419964b" alt="">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a2b95542-d0ba-4ab8-bcea-b6df31bf90f1" alt="" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/6ef2c346-4fec-4e0d-a273-31b5294d4363" alt="" >
+    </td>
+  </tr>
+</table>
 Zip ties, custom 3D printed mounts, and heat shrink kept everything secure. A well built quad isn’t just about performance - clean wiring helps troubleshooting and maintenance later.
