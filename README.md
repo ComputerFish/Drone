@@ -11,6 +11,8 @@
 </table>
 For years, I’ve been fascinated by the drone scene. Watching drones capture cinematic shots or race through obstacles sparked my interest, and I wanted to give it a try. Having never built or even owned a drone before, I had a lot to learn. I began by brainstorming what I wanted from a drone since not all drones are built for the same purpose. I prioritized speed and maneuverability first, with range and flight time as secondary considerations. Once I had a clear vision, it was time to start purchasing parts and equipment.
 
+# Overview
+FPV drones are unique because they blend high performance brushless motors, HD video transmission, and low latency control systems into a compact platform. Unlike consumer drones, they are tuned for agility and speed (upwards of 100 Mph) and must be built, not bought.
 
 # Parts & Components
 ![IMG_9938](https://github.com/user-attachments/assets/d99e876b-3964-4325-861e-4833d4d48c05)
